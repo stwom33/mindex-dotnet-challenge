@@ -32,3 +32,4 @@ C:\Users\Scott\OneDrive\Documents\dotnet-code-challenge\CodeChallenge\obj\Debug\
 C:\Users\Scott\OneDrive\Documents\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\CodeChallenge.pdb
 C:\Users\Scott\OneDrive\Documents\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\CodeChallenge.genruntimeconfig.cache
 C:\Users\Scott\OneDrive\Documents\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\ref\CodeChallenge.dll
+C:\Users\Scott\OneDrive\Documents\dotnet-code-challenge\CodeChallenge\obj\Debug\net6.0\CodeChallenge.sourcelink.json

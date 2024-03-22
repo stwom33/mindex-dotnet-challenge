@@ -10,7 +10,7 @@ namespace CodeChallenge.Models
     {
         [Key]
         public String Employee {get;set;}
-        public float Salary {get;set;}
+        public double Salary {get;set;}
         public DateTime EffectiveDate {get;set;}
         
     }

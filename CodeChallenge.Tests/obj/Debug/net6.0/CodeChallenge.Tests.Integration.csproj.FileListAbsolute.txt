@@ -407,3 +407,4 @@ c:\Users\Scott\OneDrive\Documents\dotnet-code-challenge\CodeChallenge.Tests\obj\
 c:\Users\Scott\OneDrive\Documents\dotnet-code-challenge\CodeChallenge.Tests\obj\Debug\net6.0\CodeChallenge.Tests.Integration.pdb
 c:\Users\Scott\OneDrive\Documents\dotnet-code-challenge\CodeChallenge.Tests\obj\Debug\net6.0\CodeChallenge.Tests.Integration.genruntimeconfig.cache
 c:\Users\Scott\OneDrive\Documents\dotnet-code-challenge\CodeChallenge.Tests\obj\Debug\net6.0\ref\CodeChallenge.Tests.Integration.dll
+C:\Users\Scott\OneDrive\Documents\dotnet-code-challenge\CodeChallenge.Tests\obj\Debug\net6.0\CodeChallenge.Tests.Integration.sourcelink.json
